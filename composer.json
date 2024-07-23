@@ -1,5 +1,5 @@
 {
-  "name": "convertedin/convertedin-facebook",
+  "name": "cvtdin/convertedin-facebook",
   "description": "Facebook Integration for PHP: A comprehensive PHP Composer package to seamlessly integrate with Facebook's API. This package allows you to create, manage, and analyze Facebook campaigns, and access all Facebook features programmatically. Perfect for developers looking to enhance their applications with powerful social media capabilities.",
   "type": "library",
   "require": {
@@ -10,7 +10,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Convertedin\\ConvertedinFacebook\\": "src/"
+      "Cvtdin\\ConvertedinFacebook\\": "src/"
     }
   },
   "authors": [
@@ -23,10 +23,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Convertedin\\ConvertedinFacebook\\Providers\\FacebookServiceProvider"
+        "Cvtdin\\ConvertedinFacebook\\Providers\\FacebookServiceProvider"
       ],
       "aliases": {
-        "FacebookApi": "Convertedin\\ConvertedinFacebook\\Facades\\FacebookFacade"
+        "FacebookApi": "Cvtdin\\ConvertedinFacebook\\Facades\\FacebookFacade"
       }
     }
   }

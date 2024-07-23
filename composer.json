@@ -4,8 +4,7 @@
   "type": "library",
   "require": {
     "php": "^8.0",
-    "facebook/php-business-sdk": "^20.0.0",
-    "illuminate/support": "^v11.16.0"
+    "facebook/php-business-sdk": "^20.0.0"
   },
   "license": "MIT",
   "autoload": {

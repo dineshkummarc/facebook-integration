@@ -19,7 +19,7 @@
       "email": "m.ashraf@converted.in"
     }
   ],
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "extra": {
     "laravel": {
       "providers": [

@@ -10,6 +10,6 @@ class ConnectUserAccountsService
     public static function businesses(BusinessDataObject $businessDataObject)
     {
         $business = new Business();
-        $business::getFieldsEnum();
+        return$business::getFieldsEnum();
     }
 }

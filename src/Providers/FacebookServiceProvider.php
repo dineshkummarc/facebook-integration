@@ -1,6 +1,6 @@
 <?php
 
-namespace Providers;
+namespace Cvtdin\ConvertedinFacebook\Providers;
 
 use FacebookAds\Api;
 use Illuminate\Support\ServiceProvider;

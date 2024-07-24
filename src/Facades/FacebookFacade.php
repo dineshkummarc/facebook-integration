@@ -1,6 +1,6 @@
 <?php
 
-namespace Facades;
+namespace Cvtdin\ConvertedinFacebook\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

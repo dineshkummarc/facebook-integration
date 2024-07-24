@@ -1,6 +1,6 @@
 <?php
 
-namespace providers;
+namespace Providers;
 
 use FacebookAds\Api;
 use Illuminate\Support\ServiceProvider;
